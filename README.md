@@ -8,7 +8,7 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here except for the Anaconda distribution of Python.  
+There should be Spark installed on the machine where this notebook is tested. To run the code also the Anaconda distribution of Python is needed.  
 To make sure the code runs with no issues, please use Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
