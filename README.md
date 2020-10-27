@@ -7,19 +7,18 @@
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
-
+Libraries used:
+pyspark
+pandas
+sklearn
+numpy
+matplotlib
+datetime
+operator
+collections
+os
 There should be Spark installed on the machine where this notebook is tested. To run the code also the Anaconda distribution of Python is needed.  
 To make sure the code runs with no issues, please use Python versions 3.*.
-Libraries used:
-    pySpark
-    Pandas
-    sklearn
-    Numpy
-    Matplotlib
-    datetime
-    operator
-    os
-    collections
 
 ## Project Motivation<a name="motivation"></a>
 
