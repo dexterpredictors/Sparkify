@@ -32,8 +32,8 @@ There is 1 notebook available here to showcase work related to the above goal de
 Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 ## Results<a name="results"></a>
-
-The main findings of the code can be found at the post available [here]( https://mt-svitek.medium.com/music-streaming-service-churn-predictions-with-pyspark-b4c788ac0c5b).
+We achieved a validation F1 score equals to 0.86. For such a small dataset it's not bad at all. Also the fact we didn't have any false positive predictions is important.
+More findings can be found at the post available [here]( https://mt-svitek.medium.com/music-streaming-service-churn-predictions-with-pyspark-b4c788ac0c5b).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
