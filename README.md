@@ -8,8 +8,16 @@
 
 ## Installation <a name="installation"></a>
 Libraries used: 
-1. pyspark, 
-2. pandas, sklearn, numpy, matplotlib, datetime, operator, collections, os
+1. pyspark 
+2. pandas 
+3. sklearn 
+4. numpy 
+5. matplotlib
+6. datetime
+7. operator
+8. collections
+9. os
+
 There should be Spark installed on the machine where this notebook is tested. To run the code also the Anaconda distribution of Python is needed.  
 To make sure the code runs with no issues, please use Python versions 3.*.
 
